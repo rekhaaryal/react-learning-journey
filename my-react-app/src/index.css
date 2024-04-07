@@ -30,3 +30,15 @@
   color: rgba(98, 77, 155, 0.895);
 }
 
+.student{
+  font-family: Arial, Helvetica, sans-serif0;
+  color: rgb(118, 15, 177);
+  font-size: 2em;
+  padding: 10px;
+  border: 1px solid rgb(38, 8, 66);
+  width: 355px;
+}
+.student p{
+  margin: 0;
+  
+}
